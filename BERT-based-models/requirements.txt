@@ -1,0 +1,357 @@
+absl-py==1.2.0
+adagio==0.2.4
+aiohttp==3.8.3
+aiosignal==1.2.0
+alembic==1.8.1
+ansi2html==1.8.0
+antlr4-python3-runtime==4.11.1
+anyio @ file:///C:/ci/anyio_1644463701441/work/dist
+appdirs==1.4.4
+argon2-cffi @ file:///opt/conda/conda-bld/argon2-cffi_1645000214183/work
+argon2-cffi-bindings @ file:///C:/ci/argon2-cffi-bindings_1644569878360/work
+asttokens==2.0.8
+astunparse==1.6.3
+async-timeout==4.0.2
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+autopage==0.5.1
+autoviz==0.1.58
+azure-core==1.25.1
+azure-storage-blob==12.13.1
+Babel @ file:///tmp/build/80754af9/babel_1620871417480/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bcrypt==4.0.0
+beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650274792587/work
+bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
+blis @ file:///D:/bld/cython-blis_1656314654401/work
+bokeh==2.4.3
+Boruta==0.3
+boto3==1.24.84
+botocore==1.27.84
+Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
+Brotli==1.0.9
+brotlipy==0.7.0
+cachetools==4.2.4
+catalogue==2.0.8
+catboost==1.1
+certifi @ file:///C:/b/abs_ac29jvt43w/croot/certifi_1665076682579/work/certifi
+cffi @ file:///C:/Windows/Temp/abs_6808y9x40v/croots/recipe/cffi_1659598653989/work
+charset-normalizer==2.1.1
+chart-studio==1.1.0
+click==8.0.4
+cliff==4.0.0
+cmaes==0.8.2
+cmd2==2.4.2
+colorama @ file:///C:/Windows/TEMP/abs_9439aeb1-0254-449a-96f7-33ab5eb17fc8apleb4yn/croots/recipe/colorama_1657009099097/work
+colorcet==3.0.0
+colorlog==6.7.0
+colour==0.1.5
+cryptography @ file:///C:/ci/cryptography_1652101772384/work
+cufflinks==0.17.3
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+cymem @ file:///C:/ci/cymem_1651231505755/work
+Cython==0.29.28
+dash==2.6.2
+dash-auth==1.4.1
+dash-bootstrap-components==0.13.1
+dash-core-components==2.0.0
+dash-cytoscape==0.3.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+databricks-cli==0.17.3
+dataclasses==0.6
+debugpy==1.6.3
+decorator @ file:///opt/conda/conda-bld/decorator_1643638310831/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+dill==0.3.5.1
+distlib==0.3.6
+docker==6.0.0
+dtreeviz==1.3.7
+emoji==2.1.0
+entrypoints @ file:///C:/ci/entrypoints_1649926621247/work
+evidently==0.1.51.dev0
+executing==1.0.0
+explainerdashboard==0.3.8.2
+fairlearn==0.7.0
+fastapi==0.85.0
+fastjsonschema @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_ebruxzvd08/croots/recipe/python-fastjsonschema_1661376484940/work
+ffmpy==0.3.0
+filelock==3.8.0
+Flask==2.1.3
+Flask-Compress==1.13
+Flask-SeaSurf==1.1.1
+flask-simplelogin==0.1.1
+Flask-WTF==0.15.1
+flatbuffers==22.9.24
+fonttools==4.25.0
+frozenlist==1.3.1
+fs==2.4.16
+fsspec==2022.8.2
+ftfy==4.0.0
+fugue==0.7.3
+fugue-sql-antlr==0.1.1
+gast==0.3.3
+gensim==3.8.3
+gevent==21.12.0
+GitPython==3.1.27
+google-api-core==2.10.1
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+google-cloud-core==2.3.2
+google-cloud-storage==2.5.0
+google-cloud-translate==3.8.2
+google-crc32c==1.5.0
+google-pasta==0.2.0
+google-resumable-media==2.4.0
+googleapis-common-protos==1.56.4
+gradio==3.4.0
+graphviz==0.20.1
+grpcio==1.43.0
+grpcio-status==1.48.2
+h11==0.12.0
+h5py==2.10.0
+holoviews==1.14.9
+httpcore==0.15.0
+httpx==0.23.0
+huggingface-hub==0.10.0
+hvplot==0.8.1
+hyperopt==0.2.7
+idna==3.4
+ImageHash==4.3.1
+imageio==2.22.1
+imbalanced-learn==0.7.0
+importlib-metadata==5.0.0
+importlib-resources @ file:///tmp/build/80754af9/importlib_resources_1625135880749/work
+inflect==6.0.0
+inflection==0.5.1
+iniconfig==1.1.1
+interpret==0.2.4
+interpret-core==0.2.7
+ipykernel==6.15.3
+ipython==8.5.0
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets @ file:///tmp/build/80754af9/ipywidgets_1634143127070/work
+isodate==0.6.1
+jedi @ file:///C:/ci/jedi_1644315425835/work
+Jinja2 @ file:///opt/conda/conda-bld/jinja2_1647436528585/work
+jmespath==1.0.1
+joblib==1.1.0
+JPype1==1.4.0
+json5 @ file:///tmp/build/80754af9/json5_1624432770122/work
+jsonschema @ file:///C:/b/abs_59eyhnbyej/croots/recipe/jsonschema_1663375476535/work
+jupyter @ file:///C:/Windows/TEMP/abs_56xfdi__li/croots/recipe/jupyter_1659349053177/work
+jupyter-console @ file:///opt/conda/conda-bld/jupyter_console_1647002188872/work
+jupyter-core==4.11.1
+jupyter-dash==0.4.2
+jupyter-server @ file:///C:/Windows/TEMP/abs_d3c42c59-765d-4f9b-9fa3-ad5b1369485611i_yual/croots/recipe/jupyter_server_1658754493238/work
+jupyter_client @ file:///C:/b/abs_8fbm7986b_/croots/recipe/jupyter_client_1662504374117/work
+jupyterlab @ file:///C:/ci/jupyterlab_1658909327110/work
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-server @ file:///C:/ci/jupyterlab_server_1650271783893/work
+jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231/work
+keras==2.10.0
+Keras-Preprocessing==1.1.2
+kiwisolver @ file:///C:/ci/kiwisolver_1653292408254/work
+kmodes==0.12.2
+konlpy==0.6.0
+langcodes @ file:///home/conda/feedstock_root/build_artifacts/langcodes_1636741340529/work
+libclang==14.0.6
+lightgbm==3.3.2
+lime==0.2.0.1
+linkify-it-py==1.0.3
+lxml==4.9.1
+m2cgen==0.10.0
+Markdown==3.4.1
+markdown-it-py==2.1.0
+MarkupSafe @ file:///C:/ci/markupsafe_1654489871526/work
+matplotlib==3.5.3
+matplotlib-inline @ file:///C:/ci/matplotlib-inline_1661934035815/work
+mdit-py-plugins==0.3.1
+mdurl==0.1.2
+missingno==0.5.1
+mistune==0.8.4
+mkl-fft==1.3.1
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+mlflow==1.29.0
+mlxtend==0.19.0
+msgpack==1.0.4
+msrest==0.7.1
+multidict==6.0.2
+multiprocess==0.70.13
+munkres==1.1.4
+murmurhash @ file:///C:/ci/murmurhash_1651229805044/work
+nbclassic @ file:///opt/conda/conda-bld/nbclassic_1644943264176/work
+nbclient @ file:///C:/ci/nbclient_1650290386732/work
+nbconvert @ file:///C:/ci/nbconvert_1649741005454/work
+nbformat @ file:///C:/b/abs_1dw90o2uqb/croots/recipe/nbformat_1663744957967/work
+nest-asyncio @ file:///C:/ci/nest-asyncio_1649829929372/work
+networkx @ file:///C:/ci/networkx_1657698759751/work
+nltk==3.7
+notebook @ file:///C:/Windows/TEMP/abs_79abr1_60s/croots/recipe/notebook_1659083661851/work
+numba==0.54.1
+numexpr==2.8.3
+numpy==1.23.3
+oauthlib==3.2.1
+opt-einsum==3.3.0
+optuna==2.10.1
+orjson==3.8.0
+oyaml==1.0
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas @ file:///C:/ci/pandas_1657513811041/work
+pandas-profiling==3.3.0
+pandocfilters @ file:///opt/conda/conda-bld/pandocfilters_1643405455980/work
+panel==0.12.7
+param==1.12.2
+paramiko==2.11.0
+parso @ file:///opt/conda/conda-bld/parso_1641458642106/work
+pathos==0.2.9
+pathy @ file:///home/conda/feedstock_root/build_artifacts/pathy_1656568808184/work
+pbr==5.10.0
+phik==0.12.2
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.2.0
+pkgutil_resolve_name @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_81wm45v3kb/croots/recipe/pkgutil-resolve-name_1661463352381/work
+plac==1.1.3
+platformdirs==2.5.2
+pluggy==1.0.0
+ply==3.11
+pox==0.3.1
+ppft==1.7.6.5
+preshed @ file:///C:/ci/preshed_1651240582072/work
+prettytable==3.4.1
+prometheus-client @ file:///C:/Windows/TEMP/abs_ab9nx8qb08/croots/recipe/prometheus_client_1659455104602/work
+prometheus-flask-exporter==0.20.3
+prompt-toolkit==3.0.31
+proto-plus==1.22.1
+protobuf==3.19.6
+psutil==5.9.2
+pure-eval @ file:///opt/conda/conda-bld/pure_eval_1646925070566/work
+py==1.11.0
+py4j==0.10.9.7
+pyamg==4.2.3
+pyaml==21.10.1
+pyarrow==9.0.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycaret==2.3.10
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pycryptodome==3.15.0
+pyct==0.4.8
+pydantic==1.10.2
+pydub==0.25.1
+Pygments==2.13.0
+pyLDAvis==3.2.2
+PyNaCl==1.5.0
+pynndescent==0.5.7
+pyod==1.0.5
+pyOpenSSL @ file:///opt/conda/conda-bld/pyopenssl_1643788558760/work
+pyparsing @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_7f_7lba6rl/croots/recipe/pyparsing_1661452540662/work
+pyperclip==1.8.2
+PyQt5==5.15.7
+PyQt5-sip @ file:///C:/Windows/Temp/abs_d7gmd2jg8i/croots/recipe/pyqt-split_1659273064801/work/pyqt_sip
+pyreadline3==3.4.1
+pyrsistent @ file:///C:/ci/pyrsistent_1636111468851/work
+PySocks @ file:///C:/ci/pysocks_1605287845585/work
+pytest==7.1.3
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-multipart==0.0.5
+pytorch-pretrained-bert==0.6.2
+pytz @ file:///C:/Windows/TEMP/abs_90eacd4e-8eff-491e-b26e-f707eba2cbe1ujvbhqz1/croots/recipe/pytz_1654762631027/work
+pyviz-comms==2.2.1
+pywin32==304
+pywinpty @ file:///C:/ci_310/pywinpty_1644230983541/work/target/wheels/pywinpty-2.0.2-cp38-none-win_amd64.whl
+PyYAML==6.0
+pyzmq==23.2.1
+qpd==0.3.3
+qtconsole @ file:///C:/ci/qtconsole_1662018992304/work
+QtPy @ file:///C:/ci/qtpy_1662015036641/work
+ray==2.0.0
+regex==2022.9.13
+requests @ file:///C:/ci/requests_1657717096906/work
+requests-oauthlib==1.3.1
+retrying==1.3.3
+rfc3986==1.5.0
+rsa==4.9
+s3transfer==0.6.0
+SALib==1.4.5
+scikit-image==0.19.3
+scikit-learn==1.1.2
+scikit-optimize==0.9.0
+scikit-plot==0.3.7
+scipy==1.4.1
+seaborn==0.11.2
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+shap==0.41.0
+shellingham @ file:///home/conda/feedstock_root/build_artifacts/shellingham_1659638615822/work
+sip @ file:///C:/Windows/Temp/abs_b8fxd17m2u/croots/recipe/sip_1659012372737/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sklearn==0.0
+skope-rules==1.0.1
+slicer==0.0.7
+smart-open @ file:///home/conda/feedstock_root/build_artifacts/smart_open_1630238320325/work
+sniffio @ file:///C:/ci/sniffio_1614030707456/work
+soupsieve @ file:///tmp/build/80754af9/soupsieve_1636706018808/work
+spacy==2.3.7
+spacy-legacy @ file:///home/conda/feedstock_root/build_artifacts/spacy-legacy_1660748275723/work
+spacy-loggers @ file:///home/conda/feedstock_root/build_artifacts/spacy-loggers_1661365735520/work
+srsly==2.4.5
+stack-data==0.5.0
+starlette==0.20.4
+statsmodels==0.13.2
+stevedore==4.0.0
+tensorboard==2.10.1
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboardX==2.5.1
+tensorflow==2.10.0
+tensorflow-estimator==2.10.0
+tensorflow-gpu==2.10.0
+tensorflow-io-gcs-filesystem==0.27.0
+termcolor==2.0.1
+terminado @ file:///C:/ci/terminado_1644322757089/work
+testpath @ file:///C:/Windows/TEMP/abs_23c7fa33-cbb9-46dc-b7c5-590c38e2de3d4bmbngal/croots/recipe/testpath_1655908553202/work
+textblob==0.17.1
+thinc==7.4.5
+threadpoolctl==3.1.0
+tifffile==2022.8.12
+tokenizers==0.12.1
+toml @ file:///tmp/build/80754af9/toml_1616166611790/work
+tomli==2.0.1
+torch==1.12.1
+torchaudio==0.12.1+cu113
+torchvision==0.13.1
+tornado @ file:///C:/ci/tornado_1662476991259/work
+tqdm @ file:///C:/ci/tqdm_1650618053064/work
+traitlets==5.4.0
+transformers==4.22.2
+treeinterpreter==0.2.3
+triad==0.6.9
+tune-sklearn==0.4.3
+typer @ file:///home/conda/feedstock_root/build_artifacts/typer_1657029164904/work
+typing_extensions @ file:///C:/Windows/TEMP/abs_dd2d0moa85/croots/recipe/typing_extensions_1659638831135/work
+ua-parser==0.16.1
+uc-micro-py==1.0.1
+umap-learn==0.5.3
+urllib3==1.26.12
+uvicorn==0.18.3
+virtualenv==20.16.5
+visions==0.7.5
+wasabi @ file:///home/conda/feedstock_root/build_artifacts/wasabi_1658931821849/work
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+websocket-client @ file:///C:/ci/websocket-client_1614804473297/work
+websockets==10.3
+Werkzeug==2.0.3
+widgetsnbextension @ file:///C:/ci/widgetsnbextension_1645009558218/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
+wincertstore==0.2
+wordcloud==1.8.2.2
+wrapt==1.14.1
+WTForms==3.0.1
+xgboost==1.6.2
+xlrd==2.0.1
+yarl==1.8.1
+yellowbrick==1.3.post1
+zipp @ file:///C:/ci/zipp_1652274073489/work
+zope.event==4.5.0
+zope.interface==5.4.0
