@@ -11,7 +11,7 @@ EMR 임상 노트 내 **낙상 기록 식별**을 위한 딥러닝 기반 모델
 - BERT<sub>Base</sub> cased
 - BERT<sub>Base</sub> multilingual cased
 - Bio+Clinical BERT
-- BLUE BERT
+- BlueBERT
 - KLUE BERT<sub>Base</sub>  
 
 ## LSTM-based models
@@ -35,7 +35,7 @@ EMR 임상 노트 내 **낙상 기록 식별**을 위한 딥러닝 기반 모델
 | BERT<sub>Base</sub> cased                      | 0.9702        | 0.9837     | 0.9864       | 0.9769              | 0.9810            |
 | \*\***BERT<sub>Base</sub> multilingual cased** | 0.9713        | **0.9866** | 0.9842       | 0.9789              | \*\*_**0.9835**_  |
 | Bio+Clinical BERT                              | 0.9736        | 0.9842     | 0.9875       | 0.9788              | 0.9820            | 
-| BLUE BERT                                      | 0.9726        | 0.9847     | 0.9874       | 0.9786              | 0.9823            | 
+| BlueBERT                                       | 0.9726        | 0.9847     | 0.9874       | 0.9786              | 0.9823            | 
 
 
 ### De-identified Korean data
